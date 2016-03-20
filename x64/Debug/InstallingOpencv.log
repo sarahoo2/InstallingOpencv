@@ -1,0 +1,10 @@
+﻿Build started 3/20/2016 8:52:04 PM.
+     1>Project "C:\Users\Naw Sarah Aye\documents\visual studio 2013\Projects\InstallingOpencv\InstallingOpencv\InstallingOpencv.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Naw Sarah Aye\documents\visual studio 2013\Projects\InstallingOpencv\x64\Debug\InstallingOpencv.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\OpenCV-3.1.0\mybuild\lib\Debug" /LIBPATH:"C:\OpenCV-3.1.0\mybuild\bin\Debug" opencv_calib3d300d.lib opencv_core300d.lib opencv_features2d300d.lib opencv_flann300d.lib opencv_highgui300d.lib opencv_imgcodecs300d.lib opencv_imgproc300d.lib opencv_ml300d.lib opencv_objdetect300d.lib opencv_photo300d.lib opencv_shape300d.lib opencv_stitching300d.lib opencv_superres300d.lib opencv_ts300d.lib opencv_video300d.lib opencv_videoio300d.lib opencv_videostab300d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Naw Sarah Aye\documents\visual studio 2013\Projects\InstallingOpencv\x64\Debug\InstallingOpencv.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Naw Sarah Aye\documents\visual studio 2013\Projects\InstallingOpencv\x64\Debug\InstallingOpencv.lib" /MACHINE:X64 x64\Debug\Source.obj
+     1>LINK : fatal error LNK1104: cannot open file 'opencv_calib3d300d.lib'
+     1>Done Building Project "C:\Users\Naw Sarah Aye\documents\visual studio 2013\Projects\InstallingOpencv\InstallingOpencv\InstallingOpencv.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.34
